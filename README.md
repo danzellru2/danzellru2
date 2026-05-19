@@ -8,7 +8,7 @@
 
 # Hey, I'm Danzell Paolo 👋
 
-### Competitive Programmer • Full Stack Developer • Founder
+### Competitive Programmer • Developer • Founder
 
 Building scalable products, solving algorithmic problems, and turning ideas into production-ready platforms.
 
@@ -183,28 +183,6 @@ Includes:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=danzellru2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzellru2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff" height="170"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danzellru2&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true"/>
-
-</div>
 
 ---
 
